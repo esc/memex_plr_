@@ -57,4 +57,6 @@ is to try and download and save as much as possible.
   will be able to predict yor every word as you type..)
 * Emojis are strictly encouraged (Who doesn't have an emoji capable terminal
   these days?
-* Store as much content as possible
+* Store as much content as possible, use git-annex and git-lfs.
+* Work happens on the `git` branch `core` (because we can..)
+* Use a `makefile` to build higher-level mnemoic commands
