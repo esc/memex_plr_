@@ -47,15 +47,15 @@ Also, since it was a device imagined in a pre global data-network era, you
 would have local copies, in this case, of the microfiche. The 2024 digital
 analogy to that is, having a local copy on your storage medium and not having
 to retrieve the article (or medium... anything goes really... video, podcast,
-images...). This actually makes sense in a transient internet, where content
-may only be available for a certain amount of time -- so the idea is to try and
-download and save as much as possible.
+images...) from the network. This actually makes sense in a transient internet,
+where content may only be available for a certain amount of time -- so the idea
+is to try and download and save as much as possible.
 
 ## Rules
 
 * Markdown syntax is preferred. (But it's just the default, use whatever.)
-* You can use LLMs. (Imagine you told Vaneevar bush that an advanced computer
-  will be able to predict yoru every word)
+* You can use LLMs. (Imagine you told V. Bush that an advanced computer
+  will be able to predict yor every word as you type..)
 * Emojis are strictly encouraged (Who doesn't have an emoji capable terminal
   these days?
 * Store as much content as possible
