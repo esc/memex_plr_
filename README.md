@@ -15,27 +15,26 @@ memory. However, since this construct was rezzed in 2024, it can exist across a
 vastly advanced landscape, 70 years beyond electromechanical devices that store
 documents on microfiche.  It is implemented as a simple `git` repository where
 the content can be created, modified and searched via simple command line tools
-such as a shell, simple files and directory navigation and severl options for
-advanced text editors to record input (even something like speech to text is
-readily available with several different options). I initiated this as a way to
-retain and organize both the material I read about this topic and any mental
-associations that arise so as to retain the knowledge encased and act as a
-refresher of important learnings. Think of it like a retro-futuristic form of a
-lab-journal.
+such as a shell, simple files and directory navigation and several options for
+advanced text editors to record input (even something like speech-to-text is
+readily available). I initiated this as a way to retain and organize both the
+material I read about this topic and any mental associations that arise so as
+to retain the knowledge encased and act as a refresher of important learnings.
+Think of it like a retro-futuristic type of lab-journal.
 
 ## Memex
 
 Importantly, the memex was conceived to store something called a trail, that is
 it was a connection -- a bit like a modern hyperlink -- between two documents,
-each on a seperate screen. But it was more than a hyperlink, since it
+each on a separate screen. But it was more than a hyperlink, since it
 represented a personal association, a pattern to this specific human's view of
 the connecting ideas of the documents. What the memx effectively captures is a
-neural map of someone's knowledge about a given topic. V. Bush even descibes
+neural map of someone's knowledge about a given topic. V. Bush even describes
 this in the article:
 
 ```
 It (the human mind) operates by association. With one item in its grasp, it
-snaps instantly to the next that is suggested by the as sociation of thoughts,
+snaps instantly to the next that is suggested by the association of thoughts,
 in accordance with some intricate web of trails carried by the cells of the
 brain. It has other characteristics, of course; trails that are not frequently
 followed are prone to fade, items are not fully permanent, memory is
