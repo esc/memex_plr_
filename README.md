@@ -34,12 +34,12 @@ neural map of someone's knowledge about a given topic. V. Bush even descibes
 this in the article:
 
 ```
-It (the human mind) op erates by association. With¬ one item in its grasp, it
-snaps instantly to the next that is suggested by¬ the as sociation of thoughts,
-in accordance with some intricate web of trails¬ carried by the cells of the
-brain. It has other characteristics, of course;¬ trails that are not frequently
-followed are prone to fade, items are not¬ fully permanent, memory is
-transitory. Yet the speed of action, the intricacy¬ of trails, the detail of
+It (the human mind) operates by association. With one item in its grasp, it
+snaps instantly to the next that is suggested by the as sociation of thoughts,
+in accordance with some intricate web of trails carried by the cells of the
+brain. It has other characteristics, of course; trails that are not frequently
+followed are prone to fade, items are not fully permanent, memory is
+transitory. Yet the speed of action, the intricacy of trails, the detail of
 mental pictures, is awe-inspiring beyond all else in¬nature.
 ```
 
