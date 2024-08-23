@@ -20,7 +20,7 @@ advanced text editors to record input (even something like speech-to-text is
 readily available). I initiated this as a way to retain and organize both the
 material I read about this topic and any mental associations that arise so as
 to retain the knowledge encased and act as a refresher of important learnings.
-Think of it like a retro-futuristic type of lab-journal.
+Think of it like a retro-futuristic type of lab-journal with a knowledge-base.
 
 ## Memex
 
