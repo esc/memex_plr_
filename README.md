@@ -24,7 +24,7 @@ Think of it like a retro-futuristic type of lab-journal.
 
 ## Memex
 
-Importantly, the memex was conceived to store something called a trail, that is
+Importantly, the memex was conceived to store something called a _trail_, that is
 it was a connection -- a bit like a modern hyperlink -- between two documents,
 each on a separate screen. But it was more than a hyperlink, since it
 represented a personal association, a pattern to this specific human's view of
@@ -54,7 +54,7 @@ is to try and download and save as much as possible.
 
 * Markdown syntax is preferred. (But it's just the default, use whatever.)
 * You can use LLMs. (Imagine you told V. Bush that an advanced computer
-  will be able to predict yor every word as you type..)
+  will be able to predict your every word as you type..)
 * Emojis are strictly encouraged (Who doesn't have an emoji capable terminal
   these days?
 * Store as much content as possible, use git-annex and git-lfs.
