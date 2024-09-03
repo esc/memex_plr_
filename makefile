@@ -12,6 +12,12 @@ new:
 edit:
 	vim journal/$(year)/$(month)/$(day)/notes.md
 
+merge:
+	git co core
+	git merge $(today)
+
 git:
 	git config user.name esc@$(hostname)
 	git config user.email esc@$(hostname)
+
+
