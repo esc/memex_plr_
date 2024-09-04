@@ -11,6 +11,6 @@ https://cdn.theatlantic.com/media/archives/1945/07/176-1/132407932.pdf
 
 The file is now at:
 
-[media/documents/1945-bush.pdf](../../../media/documents/1945-bush.pdf)
+[media/documents/1945-bush.pdf](../../../../media/documents/1945-bush.pdf)
 
 And added to the memex using `git-lfs`.
