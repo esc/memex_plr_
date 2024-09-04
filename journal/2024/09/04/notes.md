@@ -14,3 +14,21 @@ The file is now at:
 [media/documents/1945-bush.pdf](../../../../media/documents/1945-bush.pdf)
 
 And added to the memex using `git-lfs`.
+
+Used the following commands:
+
+```
+$ git lfs install
+$ git lfs track media/documents/1945-bush.pdf
+$ git add .gitattributes
+$ git add media/documents/1945-bush.pdf
+$ git push
+```
+
+Then created a new `makefile` target to view all files tracked with `lfs`:
+
+```
+$ make lfs-files
+git lfs ls-files --all
+537ee54e36 * media/documents/1945-bush.pdf
+```

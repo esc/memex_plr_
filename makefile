@@ -16,6 +16,9 @@ merge:
 	git co core
 	git merge $(today)
 
+lfs-files:
+	git lfs ls-files --all
+
 git:
 	git config user.name esc@$(hostname)
 	git config user.email esc@$(hostname)
