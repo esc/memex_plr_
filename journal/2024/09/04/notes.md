@@ -37,3 +37,6 @@ Then, I added a symlink to the current journal entry and can then let the link
 point to:
 
 [1945-bush.pdf](1945-bush.pdf)
+
+However, you'll need a viewer that will resolve symlinks, `github` doesn't do
+this.
