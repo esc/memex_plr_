@@ -32,3 +32,8 @@ $ make lfs-files
 git lfs ls-files --all
 537ee54e36 * media/documents/1945-bush.pdf
 ```
+
+Then, I added a symlink to the current journal entry and can then let the link
+point to:
+
+[1945-bush.pdf](1945-bush.pdf)
