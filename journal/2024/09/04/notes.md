@@ -40,3 +40,8 @@ point to:
 
 However, you'll need a viewer that will resolve symlinks, `github` doesn't do
 this.
+
+Next, I ingested the `txt` variant of the memex. This is useful because it
+helps with quoting from the article in plain text.
+
+[media/documents/1945-bush.txt](../../../../media/documents/1945-bush.txt)
