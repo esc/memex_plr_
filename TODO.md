@@ -7,6 +7,7 @@ Features
 * https://toml.io/en/
 * https://talonvoice.com/
 * https://huggingface.co/Mozilla/whisperfile
+* get youtube-dl to work and download the Bret Victor video
 
 * quick way to ingest/snapshot wikipedia articles
 
