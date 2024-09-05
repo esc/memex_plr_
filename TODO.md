@@ -29,6 +29,7 @@ Links
 * https://github.com/mxgmn/MarkovJunior
 * https://chapel-lang.org/
 * https://en.wikipedia.org/wiki/Fortress_(programming_language)
+* https://vtss.doc.ic.ac.uk/research/gillian.html
 
 * https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture
 * https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
