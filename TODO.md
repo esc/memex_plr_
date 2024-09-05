@@ -14,6 +14,7 @@ Ingest
 
 * https://arxiv.org/pdf/1810.08061
 * https://en.wikipedia.org/wiki/Memex
+* https://worrydream.com/refs/Bush_1945_-_As_We_May_Think_(Life_Magazine).pdf
 * https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf
 * https://web.mit.edu/6.001/6.037/sicp.pdf
 * https://fredrikbk.com/publications/copy-and-patch.pdf
