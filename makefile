@@ -14,7 +14,7 @@ edit:
 
 merge:
 	git co core
-	git merge $(today)
+	git merge --no-ff $(today)
 
 lfs-files:
 	git lfs ls-files --all
