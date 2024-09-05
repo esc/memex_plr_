@@ -5,7 +5,6 @@ Features
 --------
 
 * https://toml.io/en/
-* https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage
 * https://talonvoice.com/
 * https://huggingface.co/Mozilla/whisperfile
 
