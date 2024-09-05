@@ -9,6 +9,8 @@ Features
 * https://talonvoice.com/
 * https://huggingface.co/Mozilla/whisperfile
 
+* quick way to ingest/snapshot wikipedia articles
+
 Ingest
 ------
 
