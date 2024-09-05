@@ -45,3 +45,33 @@ OK, back to memex jargon... So the trail (associative chain) is:
 Now, is it enough to just add that here, can I use `[trail]` to indicate a
 trail? Is the trail expressive enough to trigger my own memory? Did I observe
 the trail well enough?
+
+De Bruijn
+---------
+
+This afternoon I attended a team meeting with my colleagues, the Numba team at
+Anaconda, where I currently work. It was a very interesting presentation about
+the various programming language topics I have been looking into recently, such
+a Structured Control Flow Graph (SCFG), the Regionalized Value Dependency Graph
+(RVSDG), s-expressions, compiler rewrite passes and the lambda calculus.
+Eventually we ended up talking about De Bruijn, since he invented something
+called De Bruijn indices, which remove the need for the lambda calculus to have
+an alpha-rewrite.
+
+So, all of these are part of a huge interconnected associative trail in my
+mind, I am not yet sure how to disassemble those thoughts into something that
+can be communicated linearly, but anyway, here is an initial trail:
+
+[trail] scfg --> s-expr --> lambda calculus --> De Bruijn
+
+[links]
+    * De Bruijn: https://en.wikipedia.org/wiki/Nicolaas_Govert_de_Bruijn
+    * De Bruijn indices: https://en.wikipedia.org/wiki/De_Bruijn_index
+
+Lastly the question came up on how to pronounce "De Bruijn" -- asking around in
+the company slack revealed the following page, which has an audio example of
+how to pronounce this word:
+
+https://www.howtopronounce.com/dutch/de-bruijn
+
+The learning was: that this rhymes with "brine".
