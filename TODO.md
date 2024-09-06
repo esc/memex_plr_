@@ -30,10 +30,13 @@ Ingest
 * https://wpmedia.wolfram.com/sites/13/2018/02/15-1-1.pdf
 * https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
 
+* https://www.youtube.com/watch?v=THwUfywGGgs
+
 News
 ----
 
 * https://news.cornell.edu/stories/2024/08/biohybrid-robots-controlled-electrical-impulses-mushrooms
+* https://www.reuters.com/technology/artificial-intelligence/openai-co-founder-sutskevers-new-safety-focused-ai-startup-ssi-raises-1-billion-2024-09-04/
 
 Links
 -----
@@ -51,3 +54,10 @@ Links
 * https://en.wikipedia.org/wiki/Interaction_nets
 
 * https://arstechnica.com/science/2024/08/hydrogels-can-learn-to-play-pong/
+
+* https://deprogrammaticaipsum.com/
+
+People
+------
+
+* https://de.wikipedia.org/wiki/Dieter_Rams
