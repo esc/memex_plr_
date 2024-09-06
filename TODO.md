@@ -56,6 +56,7 @@ Links
 * https://arstechnica.com/science/2024/08/hydrogels-can-learn-to-play-pong/
 
 * https://deprogrammaticaipsum.com/
+* https://gist.github.com/VictorTaelin/ea437a1bcdcbe026c61c434114ce7b34
 
 People
 ------
