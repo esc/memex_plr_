@@ -21,6 +21,8 @@ Ingest
 * https://web.mit.edu/6.001/6.037/sicp.pdf
 * https://fredrikbk.com/publications/copy-and-patch.pdf
 * https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/
+* https://web.archive.org/web/20160528014857/http://www.complex-systems.com/pdf/15-1-1.pdf
+* https://wpmedia.wolfram.com/sites/13/2018/02/15-1-1.pdf
 
 Links
 -----
