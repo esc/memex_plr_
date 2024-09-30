@@ -44,6 +44,9 @@ Ingest
 
 * https://blog.dottxt.co/coding-for-structured-generation.html
 
+* https://en.wikipedia.org/wiki/Agda_(programming_language)
+* https://x.com/VictorTaelin/status/1837925011187027994
+
 News
 ----
 
