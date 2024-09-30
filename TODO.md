@@ -37,6 +37,8 @@ Ingest
 * https://en.wikipedia.org/wiki/RP_(complexity)
 * https://en.wikipedia.org/wiki/ZPP_(complexity)
 
+* https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system
+
 * https://www.youtube.com/watch?v=THwUfywGGgs
 
 News
