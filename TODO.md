@@ -32,6 +32,8 @@ Ingest
 * https://wpmedia.wolfram.com/sites/13/2018/02/15-1-1.pdf
 * https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
 
+* https://en.wikipedia.org/wiki/Steensgaard%27s_algorithm
+
 * https://www.youtube.com/watch?v=THwUfywGGgs
 
 News
