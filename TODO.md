@@ -42,6 +42,8 @@ Ingest
 
 * https://www.youtube.com/watch?v=THwUfywGGgs
 
+* https://blog.dottxt.co/coding-for-structured-generation.html
+
 News
 ----
 
