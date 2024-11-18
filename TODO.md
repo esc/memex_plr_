@@ -25,7 +25,6 @@ Ingest
 * https://dl.acm.org/doi/pdf/10.1145/3617232.3624873
 
 * https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
-* https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf
 * https://web.mit.edu/6.001/6.037/sicp.pdf
 * https://fredrikbk.com/publications/copy-and-patch.pdf
 * https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/
