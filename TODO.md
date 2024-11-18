@@ -8,6 +8,7 @@ Features
 * https://talonvoice.com/
   * https://talonvoice.com/docs/
 * https://huggingface.co/Mozilla/whisperfile
+* https://www.flowvoice.ai/
 * get youtube-dl to work and download the Bret Victor video
 
 * quick way to ingest/snapshot wikipedia articles
